@@ -1,6 +1,6 @@
 import java.util.*;
 
-import static java.lang.Double.parseDouble;
+
 
 public class Main {
     public static void main(String[] args) {
